@@ -1,0 +1,99 @@
+2025-04-13 14:54:07,927 - __main__ - ERROR - Failed to load YOLO model: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/ultralytics/assets/releases/tags/v8.3.0 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002BE48F1DD50>: Failed to resolve 'api.github.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-13 14:59:43,827 - __main__ - INFO - YOLO model loaded successfully
+2025-04-13 14:59:44,055 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2025-04-13 14:59:44,055 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-13 14:59:44,191 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-13 14:59:46,485 - __main__ - INFO - YOLO model loaded successfully
+2025-04-13 14:59:46,498 - werkzeug - WARNING -  * Debugger is active!
+2025-04-13 14:59:46,499 - werkzeug - INFO -  * Debugger PIN: 687-701-204
+2025-04-13 14:59:49,866 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 14:59:49] "GET / HTTP/1.1" 200 -
+2025-04-13 14:59:49,897 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 14:59:49] "GET / HTTP/1.1" 200 -
+2025-04-13 14:59:50,635 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\app.py', reloading
+2025-04-13 14:59:50,652 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\templating.py', reloading
+2025-04-13 14:59:50,676 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\jinja2\\environment.py', reloading
+2025-04-13 14:59:50,693 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\jinja2\\loaders.py', reloading
+2025-04-13 14:59:50,708 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\ctx.py', reloading
+2025-04-13 14:59:50,733 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\routing\\map.py', reloading
+2025-04-13 14:59:50,754 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\routing\\matcher.py', reloading
+2025-04-13 14:59:50,772 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 14:59:50] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-04-13 14:59:51,266 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-13 14:59:53,966 - __main__ - INFO - YOLO model loaded successfully
+2025-04-13 14:59:53,974 - werkzeug - WARNING -  * Debugger is active!
+2025-04-13 14:59:53,974 - werkzeug - INFO -  * Debugger PIN: 687-701-204
+2025-04-13 15:00:09,951 - __main__ - INFO - Detected 15 walls and 6 doors
+2025-04-13 15:00:09,971 - __main__ - INFO - 3D model generated in 0.09s
+2025-04-13 15:00:09,975 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:00:09] "POST / HTTP/1.1" 200 -
+2025-04-13 15:00:10,065 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:00:10] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-04-13 15:05:17,000 - __main__ - INFO - YOLO model loaded successfully
+2025-04-13 15:05:17,017 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2025-04-13 15:05:17,017 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-13 15:05:17,024 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-13 15:05:19,290 - __main__ - INFO - YOLO model loaded successfully
+2025-04-13 15:05:19,310 - werkzeug - WARNING -  * Debugger is active!
+2025-04-13 15:05:19,313 - werkzeug - INFO -  * Debugger PIN: 687-701-204
+2025-04-13 15:05:22,152 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:05:22] "GET / HTTP/1.1" 200 -
+2025-04-13 15:05:22,297 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:05:22] "GET / HTTP/1.1" 200 -
+2025-04-13 15:05:22,529 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:05:22] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-04-13 15:05:34,721 - __main__ - INFO - Detected 15 walls and 6 doors
+2025-04-13 15:05:34,764 - __main__ - INFO - 3D model generated in 0.15s
+2025-04-13 15:05:34,764 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:05:34] "POST / HTTP/1.1" 200 -
+2025-04-13 15:05:34,842 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:05:34] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-04-13 15:07:16,163 - __main__ - INFO - YOLO model loaded successfully
+2025-04-13 15:07:16,190 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2025-04-13 15:07:16,190 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-13 15:07:16,198 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-13 15:07:18,439 - __main__ - INFO - YOLO model loaded successfully
+2025-04-13 15:07:18,457 - werkzeug - WARNING -  * Debugger is active!
+2025-04-13 15:07:18,462 - werkzeug - INFO -  * Debugger PIN: 687-701-204
+2025-04-13 15:07:19,913 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:07:19] "GET / HTTP/1.1" 200 -
+2025-04-13 15:07:19,938 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:07:19] "GET / HTTP/1.1" 200 -
+2025-04-13 15:07:20,308 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:07:20] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-04-13 15:07:29,915 - __main__ - INFO - Detected 15 walls and 6 doors
+2025-04-13 15:07:29,933 - __main__ - INFO - 3D model generated in 0.20s
+2025-04-13 15:07:29,933 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:07:29] "POST / HTTP/1.1" 200 -
+2025-04-13 15:07:30,034 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:07:30] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-04-13 15:15:15,570 - __main__ - INFO - YOLO model loaded successfully
+2025-04-13 15:15:15,595 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2025-04-13 15:15:15,595 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-13 15:15:15,605 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-13 15:15:17,826 - __main__ - INFO - YOLO model loaded successfully
+2025-04-13 15:15:17,841 - werkzeug - WARNING -  * Debugger is active!
+2025-04-13 15:15:17,847 - werkzeug - INFO -  * Debugger PIN: 687-701-204
+2025-04-13 15:15:20,024 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:15:20] "GET / HTTP/1.1" 200 -
+2025-04-13 15:15:20,149 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:15:20] "GET / HTTP/1.1" 200 -
+2025-04-13 15:15:20,349 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:15:20] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-04-13 15:15:27,379 - __main__ - INFO - Detected 15 walls and 6 doors
+2025-04-13 15:15:27,394 - __main__ - INFO - 3D model generated in 0.06s
+2025-04-13 15:15:27,395 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:15:27] "POST / HTTP/1.1" 200 -
+2025-04-13 15:15:27,475 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:15:27] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-04-13 15:15:30,745 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:15:30] "GET / HTTP/1.1" 200 -
+2025-04-13 15:15:30,851 - werkzeug - INFO - 172.20.10.2 - - [13/Apr/2025 15:15:30] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-04-13 15:15:40,090 - werkzeug - INFO -  * Detected change in 'c:\\Hackathon\\AI.py', reloading
+2025-04-13 15:15:40,091 - werkzeug - INFO -  * Detected change in 'c:\\Hackathon\\AI.py', reloading
+2025-04-13 15:15:40,094 - werkzeug - INFO -  * Detected change in 'c:\\Hackathon\\AI.py', reloading
+2025-04-13 15:15:40,094 - werkzeug - INFO -  * Detected change in 'c:\\Hackathon\\AI.py', reloading
+2025-04-13 15:15:41,477 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-13 15:15:41,545 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-13 15:15:44,022 - __main__ - INFO - YOLO model loaded successfully
+2025-04-13 15:15:44,022 - __main__ - INFO - YOLO model loaded successfully
+2025-04-13 15:15:44,034 - werkzeug - WARNING -  * Debugger is active!
+2025-04-13 15:15:44,034 - werkzeug - WARNING -  * Debugger is active!
+2025-04-13 15:15:44,036 - werkzeug - INFO -  * Debugger PIN: 687-701-204
+2025-04-13 15:15:44,036 - werkzeug - INFO -  * Debugger PIN: 687-701-204
+2025-04-13 15:15:50,870 - werkzeug - INFO -  * Detected change in 'c:\\Hackathon\\AI.py', reloading
+2025-04-13 15:15:50,870 - werkzeug - INFO -  * Detected change in 'c:\\Hackathon\\AI.py', reloading
+2025-04-13 15:15:50,874 - werkzeug - INFO -  * Detected change in 'c:\\Hackathon\\AI.py', reloading
+2025-04-13 15:15:51,956 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-13 15:15:51,980 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
